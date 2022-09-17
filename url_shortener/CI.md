@@ -13,5 +13,5 @@ bajarshin.
 **Links**
 
 - [Github Actions](https://docs.github.com/en/actions)
-- [12 fatrot app](https://12factor.net/)
+- [12 factor app](https://12factor.net/)
 - [CI](https://www.atlassian.com/continuous-delivery/continuous-integration#:~:text=Continuous%20integration%20(CI)%20is%20the,builds%20and%20tests%20then%20run).
